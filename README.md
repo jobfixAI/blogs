@@ -9,4 +9,5 @@ JobFix.ai blogs
 6. [JobFix.ai vs Resume Worded (2026)](https://www.jobfix.ai/blog/resume-writing/jobfix-vs-resume-worded-2026)
 7. [7 Job Fixer Mistakes That Are Still Costing You Interviews in 2026](https://www.jobfix.ai/blog/resume-writing/job-fixer-mistakes-2026)
 8. [10 Resume Mistakes That Are Silently Killing Your Job Search in 2026](https://www.jobfix.ai/blog/resume-writing/resume-mistakes-2026)
+9. [How to Fix My Resume for ATS: Resume Fixer Guide for 2026](https://www.jobfix.ai/blog/resume-writing/how-to-fix-my-resume-for-ats)
 
