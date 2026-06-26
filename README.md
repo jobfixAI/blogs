@@ -1,0 +1,2 @@
+# blogs
+JobFix.ai blogs 
