@@ -6,3 +6,4 @@ JobFix.ai blogs
 3. [Resume Fixer: How to Fix Your Resume and Get More Interviews in 2026](https://www.jobfix.ai/blog/resume-writing/resume-fixer)
 4. [Resume Keywords: The Complete ATS Optimization Guide for 2026](https://www.jobfix.ai/blog/resume-writing/resume-keywords)
 5. [Don't Pay Someone to Fix Your Resume](https://www.jobfix.ai/blog/career-tips/dont-pay-someone-to-fix-your-resume-heres-what-to-do-instead)
+6. [JobFix.ai vs Resume Worded (2026)](https://www.jobfix.ai/blog/resume-writing/jobfix-vs-resume-worded-2026)
