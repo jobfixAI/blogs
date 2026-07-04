@@ -14,3 +14,4 @@ JobFix.ai blogs
 11. [JobFix.ai](https://www.jobfix.ai/)
 12. [Should You Put High School on Your Resume?](https://www.jobfix.ai/blog/resume-writing/should-you-put-high-school-on-your-resume)
 13. [Job1 1 Guide: Jobs, Resume Fixer & Career Tools](https://www.jobfix.ai/blog/job-search/job1-1-entry-level-job-search-guide)
+14. [High School Resume Examples for Students, Graduates, and First Jobs](https://www.jobfix.ai/blog/resume-writing/high-school-resume-examples)
