@@ -16,3 +16,4 @@ JobFix.ai blogs
 13. [Job1 1 Guide: Jobs, Resume Fixer & Career Tools](https://www.jobfix.ai/blog/job-search/job1-1-entry-level-job-search-guide)
 14. [High School Resume Examples for Students, Graduates, and First Jobs](https://www.jobfix.ai/blog/resume-writing/high-school-resume-examples)
 15. [How to List High School Education on a Resume Without Looking Inexperienced](https://www.jobfix.ai/blog/resume-writing/how-to-list-high-school-education-on-resume)
+16. [High School Resume Examples for Students, First Jobs, and No Experience](https://www.jobfix.ai/blog/resume-writing/high-school-resume-examples-for-students-first-jobs-and-no-experience)
