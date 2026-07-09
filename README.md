@@ -19,3 +19,4 @@ JobFix.ai blogs
 16. [High School Resume Examples for Students, First Jobs, and No Experience](https://www.jobfix.ai/blog/resume-writing/high-school-resume-examples-for-students-first-jobs-and-no-experience)
 17. [Resume Checker 2026: We Tested the 10 Most Popular Tools (Here's the Truth)
 ](https://www.jobfix.ai/blog/resume-writing/resume-checker-2026)
+18. [Resume Keywords 2026: How to Find Them, Place Them, and Never Miss One Again](https://www.jobfix.ai/blog/resume-writing/resume-keywords-2026)
