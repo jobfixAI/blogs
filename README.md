@@ -22,3 +22,4 @@ JobFix.ai blogs
 18. [Resume Keywords 2026: How to Find Them, Place Them, and Never Miss One Again](https://www.jobfix.ai/blog/resume-writing/resume-keywords-2026)
 19. [High School Resume Template: Copy, Customize, and Apply Faster](https://www.jobfix.ai/blog/resume-writing/high-school-resume-template)
 20. [Resume Summary Examples 2026: 25+ Real Samples That Actually Got Interviews](https://www.jobfix.ai/blog/resume-writing/resume-summary-examples-2026)
+21. [High School Resume Guide: Examples, Templates, Skills, and Writing Tips](https://www.jobfix.ai/blog/resume-writing/high-school-resume)
