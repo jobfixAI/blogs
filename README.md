@@ -20,3 +20,4 @@ JobFix.ai blogs
 17. [Resume Checker 2026: We Tested the 10 Most Popular Tools (Here's the Truth)
 ](https://www.jobfix.ai/blog/resume-writing/resume-checker-2026)
 18. [Resume Keywords 2026: How to Find Them, Place Them, and Never Miss One Again](https://www.jobfix.ai/blog/resume-writing/resume-keywords-2026)
+19. [High School Resume Template: Copy, Customize, and Apply Faster](https://www.jobfix.ai/blog/resume-writing/high-school-resume-template)
