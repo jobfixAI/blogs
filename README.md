@@ -28,5 +28,6 @@ JobFix.ai blogs
 24. [First Job Resume for High School Student: Examples, Template, and Tips](https://www.jobfix.ai/blog/resume-writing/first-job-resume-for-high-school-student)
 25. [Resume Achievements: How to Turn Every Job Duty Into a Callback-Worthy Result](https://www.jobfix.ai/blog/resume-writing/resume-achievement)
 26. [Sample High School Resume: Copyable Samples for Students and First Jobs](https://www.jobfix.ai/blog/resume-writing/sample-high-school-resume)
-27. [ATS Resume Guide 2026: How Applicant Tracking Systems Actually Work (And How to Beat Them)] (https://www.jobfix.ai/blog/resume-writing/ats-resume-guide)
-
+27. [ATS Resume Guide 2026: How Applicant Tracking Systems Actually Work (And How to Beat Them)](https://www.jobfix.ai/blog/resume-writing/ats-resume-guide)
+28. [Teen Resume Examples for First Jobs, Part-Time Work, and No Experience](https://www.jobfix.ai/blog/resume-writing/teen-resume-examples)
+29. [What Should a High School Resume Look Like? Layout, Sections, and Examples](https://www.jobfix.ai/blog/resume-writing/what-should-a-high-school-resume-look-like)
