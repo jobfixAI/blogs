@@ -31,3 +31,9 @@ JobFix.ai blogs
 27. [ATS Resume Guide 2026: How Applicant Tracking Systems Actually Work (And How to Beat Them)](https://www.jobfix.ai/blog/resume-writing/ats-resume-guide)
 28. [Teen Resume Examples for First Jobs, Part-Time Work, and No Experience](https://www.jobfix.ai/blog/resume-writing/teen-resume-examples)
 29. [What Should a High School Resume Look Like? Layout, Sections, and Examples](https://www.jobfix.ai/blog/resume-writing/what-should-a-high-school-resume-look-like)
+30. [CS Resume Examples: ATS-Friendly Formats for 2026](https://www.jobfix.ai/blog/resume-writing/cs-resume)
+31. [Teaching Assistantship Resume: Examples and Tips for 2026](https://www.jobfix.ai/blog/resume-writing/teaching-assistantship-resume)
+32. [Skills to Put on a Resume: Best Examples for 2026](https://www.jobfix.ai/blog/resume-writing/skills-to-put-resume)
+33. [Resume Letter Examples: How to Write One That Works](https://www.jobfix.ai/blog/cover-letters/resume-letter)
+34. [Resume for Teens: Simple Examples That Get Interviews](https://www.jobfix.ai/blog/resume-writing/resume-for-teens)
+35. 
