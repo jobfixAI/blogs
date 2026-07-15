@@ -24,7 +24,7 @@ JobFix.ai blogs
 20. [Resume Summary Examples 2026: 25+ Real Samples That Actually Got Interviews](https://www.jobfix.ai/blog/resume-writing/resume-summary-examples-2026)
 21. [High School Resume Guide: Examples, Templates, Skills, and Writing Tips](https://www.jobfix.ai/blog/resume-writing/high-school-resume)
 22. [Resume for High School Student: How to Write One With No Experience](https://www.jobfix.ai/blog/resume-writing/resume-for-high-school-student)
-23. [High School Resume With No Experience: Examples, Template, and Writing Tips] (https://www.jobfix.ai/blog/resume-writing/high-school-resume-with-no-experience)
+23. [High School Resume With No Experience: Examples, Template, and Writing Tips](https://www.jobfix.ai/blog/resume-writing/high-school-resume-with-no-experience)
 24. [First Job Resume for High School Student: Examples, Template, and Tips](https://www.jobfix.ai/blog/resume-writing/first-job-resume-for-high-school-student)
 25. [Resume Achievements: How to Turn Every Job Duty Into a Callback-Worthy Result](https://www.jobfix.ai/blog/resume-writing/resume-achievement)
 26. [Sample High School Resume: Copyable Samples for Students and First Jobs](https://www.jobfix.ai/blog/resume-writing/sample-high-school-resume)
@@ -36,4 +36,5 @@ JobFix.ai blogs
 32. [Skills to Put on a Resume: Best Examples for 2026](https://www.jobfix.ai/blog/resume-writing/skills-to-put-resume)
 33. [Resume Letter Examples: How to Write One That Works](https://www.jobfix.ai/blog/cover-letters/resume-letter)
 34. [Resume for Teens: Simple Examples That Get Interviews](https://www.jobfix.ai/blog/resume-writing/resume-for-teens)
-35. 
+35. [Resume Examples for 2026: Templates for Every Job Seeker](https://www.jobfix.ai/blog/resume-writing/resume-examples)
+36. 
