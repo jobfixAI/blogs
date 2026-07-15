@@ -37,4 +37,4 @@ JobFix.ai blogs
 33. [Resume Letter Examples: How to Write One That Works](https://www.jobfix.ai/blog/cover-letters/resume-letter)
 34. [Resume for Teens: Simple Examples That Get Interviews](https://www.jobfix.ai/blog/resume-writing/resume-for-teens)
 35. [Resume Examples for 2026: Templates for Every Job Seeker](https://www.jobfix.ai/blog/resume-writing/resume-examples)
-36. 
+36. [PA Resume Examples: ATS-Friendly Templates for 2026](https://www.jobfix.ai/blog/resume-writing/pa-resume-examples)
