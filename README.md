@@ -38,3 +38,5 @@ JobFix.ai blogs
 34. [Resume for Teens: Simple Examples That Get Interviews](https://www.jobfix.ai/blog/resume-writing/resume-for-teens)
 35. [Resume Examples for 2026: Templates for Every Job Seeker](https://www.jobfix.ai/blog/resume-writing/resume-examples)
 36. [PA Resume Examples: ATS-Friendly Templates for 2026](https://www.jobfix.ai/blog/resume-writing/pa-resume-examples)
+37. [Entry Level Resume Examples That Get You Hired in 2026](https://www.jobfix.ai/blog/resume-writing/entry-level-resume-examples)
+38. [Career Objective for Resume: Examples, Tips, and Templates](https://www.jobfix.ai/blog/resume-writing/career-objective)
